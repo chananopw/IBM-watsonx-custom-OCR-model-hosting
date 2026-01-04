@@ -1,0 +1,21 @@
+{
+  "invoice_number": "RCA25019646",
+  "invoice_date": "24/10/2025",
+  "supplier_name_th": "Pantavani Co., Ltd.",
+  "supplier_address_th": "1168/94 อาคารอุปถัมภ์ฟินีทาวเวอร์ ชั้น 31 ถนนพระราม 4 แขวงทุ่งมหาเมฆ เขตสาทร กรุงเทพมหานคร 10120",
+  "supplier_tax_id": "0105544028248",
+  "customer_name_th": "บจ. อินโนเวทีฟ เอ็กซ์ตรีมิตส์",
+  "customer_address_th": "3 อาคารพร้อมพื้นที่ ชั้น 16 ห้อง 1608-1614 ซอยลาดพร้าว 3 ถนนลาภาพราว แขวงแย้มพล เขตจตุจักร กรุงเทพฯ 10900",
+  "customer_tax_id": "010555117714",
+  "net_amount": "1740.00",
+  "total_tax_amount": "121.80",
+  "total_amount": "1861.80",
+  "line_items": [
+    {
+      "description": "รับชำระค่าบริการสำหรับรายได้ค่าบริการซื้อขายออนไลน์ (Online Purchasing)",
+      "quantity": "",
+      "unit_price": "",
+      "amount": "1740.00"
+    }
+  ]
+}

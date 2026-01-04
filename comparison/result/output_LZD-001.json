@@ -1,0 +1,21 @@
+{
+  "invoice_number": "649344100179434",
+  "invoice_date": "",
+  "supplier_name_th": "LAZADA LIMITED (HEAD OFFICE)",
+  "supplier_address_th": "29th Floor Unit 2901 Bhiraj Tower 689, Sukhumvit Road, North Klongton, Vadhana, Bangkok, 10110",
+  "supplier_tax_id": "0105555040244",
+  "customer_name_th": "",
+  "customer_address_th": "",
+  "customer_tax_id": "",
+  "net_amount": "1,269.00",
+  "total_tax_amount": "83.02",
+  "total_amount": "1,269.00",
+  "line_items": [
+    {
+      "description": "Certainty ผ้าอ้อมผู้ใหญ่แบบแท่ง เชอร์เทนส์ อีซี่เทป Easy Taperedประหยัด สิ้ง Super Save ไซส์ L 96 ชิ้น",
+      "quantity": "1",
+      "unit_price": "1,269.00",
+      "amount": "1,269.00"
+    }
+  ]
+}

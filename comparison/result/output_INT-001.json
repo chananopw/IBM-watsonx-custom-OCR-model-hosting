@@ -1,0 +1,21 @@
+{
+  "invoice_number": "25102400095",
+  "invoice_date": "24/10/2025",
+  "supplier_name_th": "บริษัท อินเทอร์เน็ตประเทศไทย จำกัด (มหาชน)",
+  "supplier_address_th": "1768 อาคารไทยซันมิติค หาวาร์ว์ ชั้น 10-12 และชั้น IT ถนนราชพฤกษ์ด้านใหม่ แขวงบางกะปิ เขตห้วยขวาง กรุงเทพฯ 10310",
+  "supplier_tax_id": "010754400094",
+  "customer_name_th": "บจก. อินเทอร์เน็ต เอ็กซ์ตรีมิสต์",
+  "customer_address_th": "เลขที่ 3 อาคาร พร้อมพื้นที่ 3 ห้องเลขที่ 1608-1614 ชั้นที่ 16 ซอย ลาดพร้าว 3 ถนน สาทรรัตน์ แขวง จอมพล เขต จตุจักร กรุงเทพมหานคร 10900",
+  "customer_tax_id": "010551117714",
+  "net_amount": "642.00",
+  "total_tax_amount": "42.00",
+  "total_amount": "600.00",
+  "line_items": [
+    {
+      "description": "Monthly Fee For INET ETAX Invoice on Cloud 01-OCT-25 to 31-OCT-25",
+      "quantity": "1.00",
+      "unit_price": "600.00",
+      "amount": "600.00"
+    }
+  ]
+}

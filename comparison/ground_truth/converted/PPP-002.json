@@ -1,0 +1,33 @@
+{
+  "invoice_number": "R36810185",
+  "invoice_date": "07/10/68",
+  "supplier_name_th": "บริษัท เพิ่มพูล ประสิทธิ์-ตุ๊ จำกัด",
+  "supplier_address_th": "637 ถ.ลาดพร้าว แขวงจอมพล เขตจตุจักร กรุงเทพฯ. 10900",
+  "supplier_tax_id": "0105534071621",
+  "customer_name_th": "บจก. อินโนเวทีฟ เอ็กซ์ตรีมิสต์",
+  "customer_address_th": "3 อาคารพร้อมพันธุ์ 3 ชั้น 16 ห้อง 1608-1614\nซอยลาดพร้าว 3 ถนนลาดพร้าว เเขวงจอมพล เขตจตุจักร กรุงเทพมหานคร 10900",
+  "customer_tax_id": "0105551117714",
+  "net_amount": "46,700.30",
+  "total_tax_amount": "3,269.02",
+  "total_amount": "130,413.32",
+  "line_items": [
+    {
+      "description": "ค่าเช่า/Rental Fee",
+      "quantity": "1",
+      "unit_price": "80444.00",
+      "amount": "80444.00"
+    },
+    {
+      "description": "ค่าบริการ/Service Fee",
+      "quantity": "1",
+      "unit_price": "36889.32",
+      "amount": "36889.32"
+    },
+    {
+      "description": "ค่าจอดรถผู้มาติดต่อ/Parking Visitor",
+      "quantity": "1",
+      "unit_price": "13080.00",
+      "amount": "13080.00"
+    }
+  ]
+}

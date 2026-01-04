@@ -1,0 +1,51 @@
+{
+  "invoice_number": "R36810186",
+  "invoice_date": "07/10/68",
+  "supplier_name_th": "บริษัท เพิ่มพูล ประสิทธิ์-ตี จำกัด",
+  "supplier_address_th": "637 ถ.ลาดพร้าว แขวงจอมพล เขตจตุจักร กรุงเทพฯ. 10900",
+  "supplier_tax_id": "0105534071621",
+  "customer_name_th": "บอค. อินโนเวสท์ เอกซ์ตริมิตส์",
+  "customer_address_th": "อาคารพร้อมพื้นที่ 3 ชั้น 16 ห้อง 1608-1614 ซอยลาดพร้าว 3 ถนนลาดพร้าว แขวงจอมพล เขตจตุจักร กรุงเทพมหานคร 10900",
+  "customer_tax_id": "010555117714",
+  "net_amount": "11985.35",
+  "total_tax_amount": "838.97",
+  "total_amount": "12824.32",
+  "line_items": [
+    {
+      "description": "ค่าไฟฟ้า 6211 - 6314",
+      "quantity": "103.0",
+      "unit_price": "6.88",
+      "amount": "708.64"
+    },
+    {
+      "description": "ค่าไฟฟ้า 5745 - 5866",
+      "quantity": "121.0",
+      "unit_price": "6.88",
+      "amount": "832.48"
+    },
+    {
+      "description": "ค่าไฟฟ้า 4141 - 4360",
+      "quantity": "219.0",
+      "unit_price": "6.88",
+      "amount": "1506.72"
+    },
+    {
+      "description": "ค่าไฟฟ้า 629 - 870",
+      "quantity": "241.0",
+      "unit_price": "6.88",
+      "amount": "1658.08"
+    },
+    {
+      "description": "ค่าไฟฟ้า 974 - 1527",
+      "quantity": "553.0",
+      "unit_price": "6.88",
+      "amount": "3804.64"
+    },
+    {
+      "description": "ค่าไฟฟ้า 61934 - 62361",
+      "quantity": "627.0",
+      "unit_price": "6.88",
+      "amount": "4313.76"
+    }
+  ]
+}

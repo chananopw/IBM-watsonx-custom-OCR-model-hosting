@@ -1,0 +1,23 @@
+{
+  "type": "tax-invoice",
+  "fields": {
+    "invoice_number": "IN0018918431",
+    "invoice_date": "26/01/2023",
+    "total_amount": "1,269.00",
+    "total_tax_amount": "83.02",
+    "net_amount": "1,269.00",
+    "supplier_tax_id": "0105555040244",
+    "supplier_name_th": "LAZADA LIMITED",
+    "supplier_address_th": "29th Floor Unit 2901 Bhiraj Tower 689, Sukhumvit Road, North Klongton, Vadhana, Bangkok, 10110",
+    "po_reference": "649344100179434",
+    "customer_address_th": "กรุงเทพมหานคร/ Bangkok, 10230"
+  },
+  "line_items": [
+    {
+      "desc": "Certainty ผ้าอ้อมผู้ใหญ่แบบเทป เซอร์เทนตี้ อีซี่เทป Easy Tapeราคาประหยัด ลัง Super Save ไซส์ L 96 ชิ้น",
+      "quantity": "1",
+      "unit_price": "1269.00",
+      "amount": "1269.00"
+    }
+  ]
+}

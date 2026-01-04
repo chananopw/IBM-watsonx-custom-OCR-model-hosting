@@ -1,0 +1,33 @@
+{
+  "invoice_number": "R36810185",
+  "invoice_date": "07/10/68",
+  "supplier_name_th": "บริษัท เพิ่มพูด ประสิทธิ์-คู่ จำกัด",
+  "supplier_address_th": "637 ถ.ลาดพร้าว แขวงจอมพล เขตจตุจักร กรุงเทพฯ. 10900.",
+  "supplier_tax_id": "0105534071621",
+  "customer_name_th": "มอช. อินโนเวสท์ เอ็กซ์เพรเมียนท์",
+  "customer_address_th": "อาคารพร้อมพื้นที่ 3 ชั้น 16 ห้อง 1608-1614 ซอยลาดพร้าว 3 ถนนลาดพร้าว แขวงจอมพล เขตจตุจักร กรุงเทพมหานคร 10900",
+  "customer_tax_id": "010551117714",
+  "net_amount": "130,413.32",
+  "total_tax_amount": "3,269.02",
+  "total_amount": "124,990.11",
+  "line_items": [
+    {
+      "description": "ค่าเช่า/Rental Fee",
+      "quantity": "1.0 เดือน",
+      "unit_price": "80,444.00",
+      "amount": "80,444.00"
+    },
+    {
+      "description": "ค่าบริการ/Service Fee",
+      "quantity": "1.0 เดือน",
+      "unit_price": "36,889.32",
+      "amount": "36,889.32"
+    },
+    {
+      "description": "ค่าขอครอบอยู่มาติดต่อ/Parking Visitor",
+      "quantity": "1.0 เดือน",
+      "unit_price": "13,080.00",
+      "amount": "13,080.00"
+    }
+  ]
+}
